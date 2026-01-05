@@ -35,3 +35,4 @@ return sum
 // console.log(sumFromStrings("10", "20")); // 30
 // console.log(sumFromStrings("10px", "20")); // NaN
 // console.log(sumFromStrings("10.5", 5.5)); // 16
+
