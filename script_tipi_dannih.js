@@ -36,3 +36,4 @@ return sum
 // console.log(sumFromStrings("10px", "20")); // NaN
 // console.log(sumFromStrings("10.5", 5.5)); // 16
 
+// console.log('Anna');
